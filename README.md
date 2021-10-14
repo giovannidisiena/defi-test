@@ -13,4 +13,4 @@ This is achieved by two methods:
    npm aave
    ```
 
-An example of an advanced automated DeFi trading strategy for part 2 of the case stude can be found [here](./strategy.md).
+An example of an advanced automated DeFi trading strategy for part 2 of the case stude can be found [here](./STRATEGY.md).
